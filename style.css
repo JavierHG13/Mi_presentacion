@@ -1,0 +1,29 @@
+body{
+    background-color: #7fffd4;
+}
+.Nombre{
+    background-color: beige;
+    font-style: italic;
+    text-align: center;
+}
+.info{
+    background-color: beige;
+    padding: 15px;
+    width: 30vw;
+    border-radius: 40px;
+}
+.imagen{
+    padding: 15px;
+    border-radius: 30px;
+}
+.tabla{
+    background-color: aliceblue;
+}
+.tablaHead{
+    background-color: rgb(83, 53, 7);
+    padding: 10px;
+}
+.tablaBody{
+    background-color: beige;
+    padding: 15px;
+}
